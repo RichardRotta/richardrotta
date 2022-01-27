@@ -1,8 +1,8 @@
 ## Eae! Eu sou o Richard Rotta <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-- 🔭 Curso o ultimo ano do E.M, visando o futuro na programação
+- 🔭 Curso Tecnólogo Analise e Desenvolvimento de Sistemas, ingressando crescer cada vez mais no mundo da programação
 - 🌱 Estudando HTML e CSS
-- 💙 Interesse: JavaScript, Java, PHP, React, JQuery, MySQL
+- 💙 Interesse: JavaScript, Java, PHP, React, JQuery, MySQL, C, C++, Phyton
 - 😄 Pronouns: Ele/Dele
 - :video_game: Gosto muito de CS-GO, chega mais e bora se divertir um pouco!
  <div>
