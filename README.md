@@ -1,7 +1,7 @@
 ## Eae! Eu sou o Richard Rotta <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 - 🔭 Curso Analise e Desenvolvimento de Sistemas, pensando crescer cada vez mais no mundo da programação
-- 🌱 Estudando HTML e CSS
+- 🌱 Estudando HTML, CSS E C#
 - 💙 Interesse: JavaScript, Java, PHP, React, JQuery, MySQL, C, C++, Phyton
 - 😄 Pronouns: Ele/Dele
 - :video_game: Gosto muito de CS-GO, chega mais e bora se divertir um pouco!
@@ -13,6 +13,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rotta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rotta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rotta-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="200px" align="right" alt="Rotta-dev" src="https://monophy.com/media/hTyYJZDtrnoe8ocTWF/monophy.gif">
    
    ##
