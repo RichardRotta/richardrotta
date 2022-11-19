@@ -2,7 +2,7 @@
 
 - 🔭 Curso Analise e Desenvolvimento de Sistemas, pensando crescer cada vez mais no mundo da programação
 - 🌱 Estudando HTML, CSS E C#
-- 💙 Interesse: JavaScript, Java, PHP, React, JQuery, MySQL, C, C++, Phyton
+- 💙 Interesse: JavaScript, Java, PHP, React, JQuery, C, C++, Phyton
 - 😄 Pronouns: Ele/Dele
 - :video_game: Gosto muito de CS-GO, chega mais e bora se divertir um pouco!
  <div>
