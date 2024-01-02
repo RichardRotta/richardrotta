@@ -1,6 +1,6 @@
 ## Eae! Eu sou o Richard Rotta <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-- 🔭 Curso Analise e Desenvolvimento de Sistemas, pensando crescer cada vez mais no mundo da programação
+- 🔭 Graduado em Analise e Desenvolvimento de Sistemas
 - 🌱 Estudando HTML, CSS, Java e C#
 - 💙 Interesse: JavaScript, Spring, Hibernate, Apache Maven, Cloud e etc.
 - 😄 Pronouns: Ele/Dele
@@ -21,7 +21,6 @@
    ##
     
   <div>
-  <a href = "https://twitter.com/RichardRotta"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/richard_rotta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://richard.rottamfa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-rotta-b690791a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
